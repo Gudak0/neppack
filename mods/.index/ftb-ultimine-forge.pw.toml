@@ -1,0 +1,14 @@
+name = "FTB Ultimine (Forge)"
+filename = "ftb-ultimine-1202.3.5.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "bf9c4b0a068711c8e3c8a0f679861081f418cb36"
+
+[update]
+[update.curseforge]
+file-id = 3078750
+project-id = 386134

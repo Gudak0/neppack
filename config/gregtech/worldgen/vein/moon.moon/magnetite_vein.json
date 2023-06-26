@@ -1,0 +1,37 @@
+{
+  "weight": 20,
+  "density": 0.2,
+  "max_height": 60,
+  "min_height": 30,
+  "generation_predicate": {
+	"block": "galacticraftcore:basic_block_moon"
+  },
+  "dimension_filter": [
+    "provider_class:WorldProviderMoon"
+  ],
+  "generator": {
+    "type": "ellipsoid",
+    "radius": [
+      10 ,
+      16
+    ]
+  },
+  "filler": {
+    "type": "layered",
+    "values": [
+      {
+        "primary": "ore:magnetite"
+      },
+      {
+        "secondary": "ore:magnetite"
+      },
+      {
+        "between": "ore:chromite"
+      },
+      {
+        "sporadic": "ore:gold"
+      }
+    ]
+  }
+}
+

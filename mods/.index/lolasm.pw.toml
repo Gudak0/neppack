@@ -1,0 +1,14 @@
+name = "CensoredASM"
+filename = "censoredasm5.8.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "a3af4e901cb0bd7a565c9fbc48b1f5c5585575ca"
+
+[update]
+[update.curseforge]
+file-id = 4541751
+project-id = 460609

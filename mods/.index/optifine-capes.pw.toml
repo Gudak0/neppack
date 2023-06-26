@@ -1,0 +1,14 @@
+name = "Optifine Capes"
+filename = "OptifineCapes-1.0-1.12.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "d36b0a7f1c914e32984a2bcd7c4af3a1fe7b702b"
+
+[update]
+[update.curseforge]
+file-id = 2963967
+project-id = 385314

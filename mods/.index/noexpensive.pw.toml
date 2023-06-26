@@ -1,0 +1,14 @@
+name = "NoExpensive"
+filename = "NE-1.12.2-Forge-1.1.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "707b9fd00c9582c0b4cd556bba247f55dac6b684"
+
+[update]
+[update.curseforge]
+file-id = 2974483
+project-id = 387108

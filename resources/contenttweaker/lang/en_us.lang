@@ -1,0 +1,28 @@
+mbt.machine.garden_chamber.name=Garden Chamber
+recipemap.garden_chamber.name=Garden Chamber
+
+mbt.machine.ultimate_void_miner.name=Ultimate Void Miner
+recipemap.ultimate_void_miner.name=Ultimate Void Miner
+
+material.mek_osmium=Mekanism Osmium
+
+material.draconium=Draconium
+material.conductive_iron=Conductive Iron
+material.enderium=Enderium
+material.signalum=Signalum
+material.lumium=Lumium
+material.end_steel=End Steel
+material.vibrant_alloy=Vibrant Alloy
+material.energetic_alloy=Energetic Alloy
+
+material.essence_inferium=Inferium Essence
+material.essence_prudentium=Prudentium Essence
+material.essence_intermedium=Intermedium Essence
+material.essence_superium=Superium Essence
+material.essence_supremium=Supremium Essence
+material.essence_insanium=Insanium Essence
+
+material.prosperity=Prosperity
+material.prosperity_extract=Prosperity Extract
+
+tile.contenttweaker.block_dust.name=Dust Block

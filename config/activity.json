@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "NepJr",
+      "uniqueId": "623f6928-3f94-4727-9825-8e559f3d4c8f"
+    },
+    "time": 1687323131354,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5UWjnJJNgo"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "NepJr",
+      "uniqueId": "623f6928-3f94-4727-9825-8e559f3d4c8f"
+    },
+    "time": 1687320016670,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/3ID4P51Rb3"
+    }
+  }
+]

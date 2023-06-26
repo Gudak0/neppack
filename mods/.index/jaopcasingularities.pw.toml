@@ -1,0 +1,14 @@
+name = "JAOPCASingularities"
+filename = "JAOPCASingularities-1.12.2-2.2.0.9.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "37925b72fba7222a4083bbc9817dff9aac2f5921"
+
+[update]
+[update.curseforge]
+file-id = 2649716
+project-id = 268610
